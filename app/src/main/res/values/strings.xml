@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidChat</string>
+    <string name="login.message.email">Correo Electronico</string>
+    <string name="login.message.password">Contrasena</string>
+    <string name="login.button.signin">Iniciar Sesion</string>
+    <string name="login.button.signup">Crear Cuenta</string>
+</resources>
